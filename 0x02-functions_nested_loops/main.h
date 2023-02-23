@@ -1,10 +1,8 @@
-#ifndef main_h
-#define main_h
-#include <unistd.h>
+#ifndef main.h
+#define main.h
 
 int _putchar(char c);
 void print_alphabet(void);
-int print_alphabet(1.main)
 void print_alphabet_x10(void);
 int _islower(int c);
 int _isalpha(int c);
